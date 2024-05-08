@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "felipe",
+      "email": "felipe@test",
+      "password": "abc@123"
+    },
+    {
+      "id": "7718",
+      "email": "tony@test.com",
+      "password": "tony@123",
+      "name": "Tony"
+    },
+    {
+      "id": "51e2",
+      "email": "bruce@test.com",
+      "password": "bruce@123",
+      "name": "Bruce"
+    },
+    {
+      "id": "92ba",
+      "email": "felipe10@test.com",
+      "password": "abc123",
+      "name": "felipe10"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 111111,
+      "address": "Joquei"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 222222,
+      "address": "Parangaba"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 333333,
+      "address": "Antonio Bezerra"
+    }
+  ]
+}
