@@ -27,22 +27,28 @@
   ],
   "restaurant": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Burger King",
       "contact": 111111,
       "address": "Joquei"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Dominos",
       "contact": 222222,
       "address": "Parangaba"
     },
     {
-      "id": 3,
       "name": "KFC",
+      "address": "Antonio Bezerra 121",
       "contact": 333333,
-      "address": "Antonio Bezerra"
+      "id": "3"
+    },
+    {
+      "id": "1162",
+      "name": "KFC Restaurant",
+      "address": "Rio Mar",
+      "contact": "123456789"
     }
   ]
 }
